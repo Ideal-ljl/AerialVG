@@ -1,5 +1,6 @@
 # AerialVG
 
+[![Dataset](https://img.shields.io/badge/Website-online-27AE60.svg)]([https://shailab-ipec.github.io/openfly/](https://huggingface.co/datasets/IPEC-COMMUNITY/AerialVG))
 ## Introduction
 ![cover](images/AerialVG.png)
 Visual grounding (VG) aims to localize target objects in an image based on natural language descriptions. In this paper, we propose AerialVG, a new task focusing on visual grounding from aerial views. Compared to traditional VG, AerialVG poses new challenges, \emph{e.g.}, appearance-based grounding is insufficient to distinguish among multiple visually similar objects, and positional relations should be emphasized. Besides, existing VG models struggle when applied to aerial imagery, where high-resolution images cause significant difficulties. 
