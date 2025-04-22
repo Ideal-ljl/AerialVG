@@ -1,7 +1,7 @@
 # AerialVG
 
 [![HuggingFace](https://img.shields.io/badge/Dataset-Huggingface-F8D44D.svg)](https://huggingface.co/datasets/IPEC-COMMUNITY/AerialVG)
-[![Arxiv](https://img.shields.io/badge/Arxiv-Preprint-A42C24.svg)](https://arxiv.org/abs/2504.07836）)
+[![Arxiv](https://img.shields.io/badge/Arxiv-Preprint-A42C24.svg)](https://arxiv.org/abs/2504.07836)
 
 ## Introduction
 ![cover](images/AerialVG.png)
