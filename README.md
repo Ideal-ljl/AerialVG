@@ -5,6 +5,7 @@
 
 ## 🔥 News
 [2025/07/08] AerialVG was accepted by ICCV 2025! 🎉
+
 [2025/07/08] We have released the **[dataset](https://huggingface.co/datasets/IPEC-COMMUNITY/AerialVG)**
 
 ## Introduction
