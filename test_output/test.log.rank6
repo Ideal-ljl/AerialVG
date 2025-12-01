@@ -1,0 +1,31 @@
+[12/01 12:30:37.143]: git:
+  sha: 6b3832334b7de2e6dd8af787c227116d639e87ad, status: has uncommited changes, branch: main
+
+[12/01 12:30:37.143]: Command: eval.py --local-rank=6 --output_dir /mnt/shared-storage-user/liujunli/AerialVG/test_output --eval -c /mnt/shared-storage-user/liujunli/AerialVG/config/config_cfg.py --top_k 1 --batch 8 --pretrain_model_path /mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth
+[12/01 12:30:37.143]: build model ... ...
+[12/01 12:31:20.506]: git:
+  sha: 6b3832334b7de2e6dd8af787c227116d639e87ad, status: has uncommited changes, branch: main
+
+[12/01 12:31:20.506]: Command: eval.py --local-rank=6 --output_dir /mnt/shared-storage-user/liujunli/AerialVG/test_output --eval -c /mnt/shared-storage-user/liujunli/AerialVG/config/config_cfg.py --top_k 1 --batch 8 --pretrain_model_path /mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth
+[12/01 12:31:20.507]: build model ... ...
+[12/01 12:47:28.730]: git:
+  sha: 6b3832334b7de2e6dd8af787c227116d639e87ad, status: has uncommited changes, branch: main
+
+[12/01 12:47:28.730]: Command: eval.py --local-rank=6 --output_dir /mnt/shared-storage-user/liujunli/AerialVG/test_output --eval -c /mnt/shared-storage-user/liujunli/AerialVG/config/config_cfg.py --top_k 1 --batch 8 --pretrain_model_path /mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth
+[12/01 12:47:28.731]: build model ... ...
+[12/01 12:47:42.584]: build model, done.
+[12/01 12:48:12.772]: ckpt:/mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth, first_ac: 0.5126903653144836, best_ac: 0.5126903653144836
+[12/01 12:50:09.703]: git:
+  sha: 6b3832334b7de2e6dd8af787c227116d639e87ad, status: has uncommited changes, branch: main
+
+[12/01 12:50:09.703]: Command: eval.py --local-rank=6 --output_dir /mnt/shared-storage-user/liujunli/AerialVG/test_output --eval -c /mnt/shared-storage-user/liujunli/AerialVG/config/config_cfg.py --top_k 1 --batch 8 --pretrain_model_path /mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth
+[12/01 12:50:09.703]: build model ... ...
+[12/01 12:50:23.020]: build model, done.
+[12/01 12:50:52.145]: ckpt:/mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth, first_ac: 0.5126903653144836, best_ac: 0.5126903653144836
+[12/01 12:53:08.735]: git:
+  sha: 6b3832334b7de2e6dd8af787c227116d639e87ad, status: has uncommited changes, branch: main
+
+[12/01 12:53:08.735]: Command: eval.py --local-rank=6 --output_dir /mnt/shared-storage-user/liujunli/AerialVG/test_output --eval -c /mnt/shared-storage-user/liujunli/AerialVG/config/config_cfg.py --top_k 5 --batch 8 --pretrain_model_path /mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth
+[12/01 12:53:08.735]: build model ... ...
+[12/01 12:53:18.048]: build model, done.
+[12/01 12:53:47.124]: ckpt:/mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth, Top_k: 0.5126903653144836, Top_1: 0.8612520694732666

@@ -1,0 +1,7 @@
+# ninja log v5
+3	8625	1728027858928596729	/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/build/temp.linux-x86_64-3.10/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.o	c86b84c996568d00
+4	19663	1728027869971163830	/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/build/temp.linux-x86_64-3.10/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/src/vision.o	fe86baeeee6323d6
+4	25062	1728027875363349546	/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/build/temp.linux-x86_64-3.10/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.o	ac033e2011545dac
+985	6842	1728033509705378384	/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/build/temp.linux-x86_64-3.10/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.o	77e92b9d0f3700bc
+985	17791	1728033520655791761	/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/build/temp.linux-x86_64-3.10/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/src/vision.o	d6558252160651cb
+985	21520	1728033524378790927	/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/build/temp.linux-x86_64-3.10/cpfs01/user/gaoyunpeng/UAVVG/Open-GroundingDino/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.o	70fcf17e0aaade87

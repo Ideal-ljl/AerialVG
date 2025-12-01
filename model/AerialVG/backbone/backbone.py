@@ -1,16 +1,3 @@
-# ------------------------------------------------------------------------
-# Grounding DINO
-# url: https://github.com/IDEA-Research/GroundingDINO
-# Copyright (c) 2023 IDEA. All Rights Reserved.
-# Licensed under the Apache License, Version 2.0 [see LICENSE for details]
-# ------------------------------------------------------------------------
-# Conditional DETR
-# Copyright (c) 2021 Microsoft. All Rights Reserved.
-# Licensed under the Apache License, Version 2.0 [see LICENSE for details]
-# ------------------------------------------------------------------------
-# Copied from DETR (https://github.com/facebookresearch/detr)
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
-# ------------------------------------------------------------------------
 
 """
 Backbone modules.
@@ -24,7 +11,7 @@ import torchvision
 from torch import nn
 from torchvision.models._utils import IntermediateLayerGetter
 
-from groundingdino.util.misc import NestedTensor, clean_state_dict, is_main_process
+from util.misc import NestedTensor, clean_state_dict, is_main_process
 
 from .position_encoding import build_position_encoding
 from .swin_transformer import build_swin_transformer
