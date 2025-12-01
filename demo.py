@@ -154,9 +154,9 @@ if __name__ == "__main__":
 
     # cfg
     config_file = './config/config_cfg.py'  # change the path of the model config file
-    checkpoint_path = '/mnt/shared-storage-user/liujunli/UAVVG/CVPR_RELA/Open-GroundingDino/train_output/ref_final/checkpoint_best_regular.pth'  # change the path of the model
-    image_path = '/mnt/shared-storage-user/liujunli/UAVVG/nwpu/DJI_202501031059_016_海/DJI_20250103120841_0534_W.JPG'
-    text_prompt = 'a white car is driving on the road, with a white sedan at the bottom left'
+    checkpoint_path = ''  # change the path of the model
+    image_path = './images/demo.JPG'
+    text_prompt = 'A blue car is parking on the right road with a white sedan above it.'
     output_dir = './output'
     box_threshold = 0.5
     text_threshold = 0.25
