@@ -8,7 +8,7 @@
 
 [2025/07/08] We have released the **[dataset](https://huggingface.co/datasets/IPEC-COMMUNITY/AerialVG)**
 
-[2025/12/01] We have released the inference code and ckpt.
+[2025/12/01] We have released the inference code and **[ckpt](https://huggingface.co/Ideallll/AerialVG/tree/main)**.
 
 
 
